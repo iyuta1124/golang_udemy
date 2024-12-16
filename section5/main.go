@@ -4,6 +4,8 @@ import "fmt"
 
 const Pi = 99999999999999
 
+// iotaは連番を指定するときに使う
+// 下記だと0,1,2となる
 const (
 	c0 = iota
 	c1
